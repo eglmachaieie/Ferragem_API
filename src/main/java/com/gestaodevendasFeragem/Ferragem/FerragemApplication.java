@@ -8,7 +8,7 @@ public class FerragemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FerragemApplication.class, args);
-		System.out.println("ola");
+		System.out.println("ola mundo");
 	}
 
 }
